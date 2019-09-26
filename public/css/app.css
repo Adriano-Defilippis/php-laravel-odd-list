@@ -1,0 +1,13 @@
+header {
+  background-color: purple;
+}
+
+header h2 {
+  background-color: black;
+  color: white;
+}
+
+footer {
+  background-color: lightblue;
+}
+
