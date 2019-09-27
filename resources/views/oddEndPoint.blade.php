@@ -13,11 +13,9 @@
 
          <h3>{{$arr_name}}</h3>
          <ul>
-
            @foreach ($arrnum_disp as $num)
              <li> {{$num}} </li>
            @endforeach
-
          </ul>
 
        </main>
